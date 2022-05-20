@@ -1,0 +1,15 @@
+Dockerfile
+Dockerfile-dev
+docker-compose.yml
+docker-compose-dev.yml
+.dockerignore
+
+#dev files
+node_odules
+.git
+.gitignore
+
+#installation error logs(opotional)
+npm-debug.log
+yarn-error.log
+yarn-debug.log
